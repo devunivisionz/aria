@@ -1,0 +1,1 @@
+import React from'react';export default function Reports(){return(<div className='rounded-2xl border border-emerald-500/20 bg-white/5 backdrop-blur p-4'><h2 className='text-lg font-semibold'>Reports</h2><ul className='list-disc pl-6 text-white/70'><li>Activation</li><li>Match Precision</li><li>Intro Rate</li><li>Time-to-Intro</li><li>Lift vs Baseline</li></ul></div>) }

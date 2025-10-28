@@ -1,0 +1,1 @@
+import React from'react';export default function Intros(){return(<div className='rounded-2xl border border-emerald-500/20 bg-white/5 backdrop-blur p-4'><h2 className='text-lg font-semibold'>Intro Requests</h2><p className='text-white/60'>Pipeline: Requested → In Progress → Scheduled → Closed.</p></div>) }
